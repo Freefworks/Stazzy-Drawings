@@ -1,0 +1,1 @@
+var x = 1; function switchImg() {if (x == 1) {document.getElementById("imgToSwitch").src = "24 Stone Carving TP.png"; x++;} else if (x == 2) {document.getElementById("imgToSwitch").src = "25 Wild Painter TP.png"; x++;} else if (x == 3) {document.getElementById("imgToSwitch").src = "2 Silly Artist TP.png"; x = 1;}}
