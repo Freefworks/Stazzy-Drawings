@@ -44,5 +44,12 @@ var sites = [
 'drawing-43.html',
 'drawing-44.html',
 'drawing-45.html',
-'drawing-46.html'
+'drawing-46.html',
+'drawing-47.html',
+'drawing-48.html',
+'drawing-49.html',
+'drawing-50.html',
+'drawing-51.html',
+'drawing-52.html',
+'drawing-53.html'
 ]; function randomSite() {var i = parseInt(Math.random() * sites.length); location.href = sites[i];}
